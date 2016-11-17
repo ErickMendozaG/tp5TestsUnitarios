@@ -1,8 +1,12 @@
-package ingsw;
+package casosPrueba3y9;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import casosPrueba3y9.Ejercicio;
+import casosPrueba3y9.ExpertoGestionEjercicio;
+import casosPrueba3y9.Usuario;
 
 public class ExpertoGestionEjercicioTest {
 

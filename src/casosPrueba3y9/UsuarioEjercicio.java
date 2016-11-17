@@ -1,4 +1,4 @@
-package ingsw;
+package casosPrueba3y9;
 
 public class UsuarioEjercicio {
 	
